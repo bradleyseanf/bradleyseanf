@@ -9,7 +9,6 @@
   <img src="./assets/bradley-cropped.jpg" alt="Bradley Florence" width="420">
 </p>
 
-I work across infrastructure, automation, and operations with a focus on building systems that are reliable, secure, and easier to manage.
 
 ## What I Do
 
