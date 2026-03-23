@@ -8,7 +8,7 @@
 <p align="center">
   <img src="./assets/bradley-cropped.jpg" alt="Bradley Florence" width="420">
 </p>
-
+<p align="center"><code>No, those are not real palm trees, and Yes, I wish they were.</code></p>
 
 ## What I Do
 
